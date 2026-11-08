@@ -62,7 +62,7 @@ Multipliers stack multiplicatively. Flat bonus added after.
 XeCute/
 ├── Assets/
 │   ├── Scenes/
-│   │   └── Main.unity                  # The only scene
+│   │   └── DrawBoard.unity                  # The only scene
 │   ├── Scripts/
 │   │   ├── Core/                       # Game logic
 │   │   │   ├── RoundManager.cs             # State machine heart of the game
@@ -98,9 +98,6 @@ XeCute/
 │   │   ├── lose_thud.wav
 │   │   ├── bonus_sparkle.wav
 │   │   └── ambient_loop.wav
-│   ├── Sprites/
-│   └── Resources/
-└── SETUP_README.md                    # Detailed Unity setup walkthrough
 ```
 
 ---
