@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cdb89ba7bb7a9e1469796f033070343c, type: 3}
+  m_Name: Config
+  m_EditorClassIdentifier: Assembly-CSharp::XeCute.Core.GameConfig
+  cardMin: 1
+  cardMax: 5
+  maxCardsPerRound: 5
+  cardScores: 0a000000280000005a000000a0000000fa000000i
+  luckyMin: 5
+  luckyMax: 20
+  dualHandMultiplier: 1.25
+  tripletsMultiplier: 1.75
+  quadrantsMin: 1.5
+  quadrantsMax: 2
+  packsOf5Multiplier: 2.5
+  uniqueOnesFlatBonus: 5000
+  cardFlipDuration: 0.25
+  afterCardDelay: 0.3
+  resolveDelay: 0.5
+  nextRoundDelay: 1.5

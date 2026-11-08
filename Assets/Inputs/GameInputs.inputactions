@@ -72,6 +72,35 @@
                     "isPartOfComposite": false
                 }
             ]
+        },
+        {
+            "name": "Paused",
+            "id": "fa5c2ce9-cade-498a-a978-32347fbba6fb",
+            "actions": [
+                {
+                    "name": "Exit",
+                    "type": "Button",
+                    "id": "88a96db0-fae4-4886-a79d-dcc3ba365995",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false,
+                    "priority": 0
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "917b52cb-f95d-493c-af1b-2ed1a57ea656",
+                    "path": "<Keyboard>/e",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Exit",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
         }
     ],
     "controlSchemes": []
