@@ -46,7 +46,7 @@ Multipliers stack multiplicatively. Flat bonus added after.
 
 ## Tech stack
 
-- **Engine:** Unity 6.3 (2D)
+- **Engine:** Unity 6.6 (2D)
 - **UI:** TextMeshPro (TMP)
 - **Language:** C#
 - **Architecture:** Event-driven (static event bus decouples UI from game logic)
@@ -109,7 +109,7 @@ XeCute/
 
 ### Prerequisites
 
-- **Unity 6.3** (install via Unity Hub)
+- **Unity 6.6** (install via Unity Hub)
 - A code editor (Visual Studio, VS Code, or JetBrains Rider)
 
 ### Setup
@@ -122,7 +122,7 @@ XeCute/
 
 2. **Open in Unity Hub**
    - Open Unity Hub → Add project → select the cloned folder
-   - Open with Unity 6.3
+   - Open with Unity 6.6
 
 3. **Import TMP Essentials** (one-time)
    - Window → TextMeshPro → Import TMP Essentials
