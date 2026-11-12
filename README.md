@@ -1,6 +1,6 @@
 # XeCute
 
-**A card-summoning game of luck, risk, and bonus hunting.** Built for the Lucky Number game jam.
+**A card-summoning game of luck, risk, and bonus hunting.** Built for Official 2026 Unity Game Jam.
 
 A lucky number appears. Five cards wait to be drawn. Each press of DRAW reveals one card — its face value adds to your running sum, and its score value adds to your round total. Match the lucky number exactly and the round is yours. Miss it after five cards and the run ends.
 
