@@ -24,7 +24,7 @@ namespace XeCute.UI
             if (playButton != null) playButton.onClick.AddListener(OnPlayClicked);
             if (gameplayUI != null) gameplayUI.SetActive(false);
 
-            if (appVersionText) appVersionText.text = $"os_rel_web_1.1";
+            if (appVersionText) appVersionText.text = $"{Application.version}";
 
             UpdateHighScoreDisplay();
         }
